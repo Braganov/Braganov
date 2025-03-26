@@ -57,17 +57,12 @@ I am currently in an intensive training program covering the fundamentals of sof
 - [LinkedIn](https://linkedin.com/in/ibrahim-houmaidi)
 - [GitHub](https://github.com/Braganov)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/ibrahim-houmaidi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahim-houmaidi" height="30" width="40" /></a>
-</p>
 
 ## 📊 GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=braganov&show_icons=true&locale=en&layout=compact" alt="braganov" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=braganov&show_icons=true&locale=en" alt="braganov" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=braganov&theme=dark" alt="braganov" /></p>
 
 ---
 <p align="center">🌱 Constantly evolving and learning | Open to collaboration opportunities</p>
